@@ -24,4 +24,4 @@ By looking at the demographics of traﬃc accident victims for each US state, we
 
 To accomplish these tasks, we will make use of data wrangling, plotting, dimensionality reduction, and unsupervised clustering.
 
-The data given to us was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners. This particular dataset was compiled and released as a CSV-file by FiveThirtyEight under the CC-BY4.0 license.
+The data given to us was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners. This particular dataset was compiled and released as a `CSV-file` by `FiveThirtyEight` under the `CC-BY4.0 license`.
